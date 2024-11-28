@@ -49,8 +49,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/LariKaroll/LariKaroll/output/snake.svg" alt="Snake animation" />
 
-###
