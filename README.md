@@ -61,7 +61,7 @@
 </div>
 
 ###
-
-
+<h3 align="left">Curiosidades do Repositório</h3>
+<p>DMOB - Desenvolvimento Mobile</p>
 
 ###
