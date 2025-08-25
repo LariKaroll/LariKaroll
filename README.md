@@ -63,5 +63,6 @@
 ###
 <h3 align="left">Curiosidades do Repositório</h3>
 <p>DMOB - Desenvolvimento Mobile</p>
+<p>MSO - Modelagem de Software</p>
 
 ###
